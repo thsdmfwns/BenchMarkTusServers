@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchMarkTusServer", "BenchMarkTusServer\BenchMarkTusServer.csproj", "{91B82696-321E-4435-8857-C18D90F6C067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TusDotnetTest", "TusDotnetTest\TusDotnetTest.csproj", "{EBF4D55F-80B4-461A-ACCE-88651A5B7E21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TusDotnetAOTTest", "TusDotnetAOTTest\TusDotnetAOTTest.csproj", "{6B422F5B-687A-468D-89FC-676464395A07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B82696-321E-4435-8857-C18D90F6C067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B82696-321E-4435-8857-C18D90F6C067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B82696-321E-4435-8857-C18D90F6C067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B82696-321E-4435-8857-C18D90F6C067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF4D55F-80B4-461A-ACCE-88651A5B7E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF4D55F-80B4-461A-ACCE-88651A5B7E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF4D55F-80B4-461A-ACCE-88651A5B7E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF4D55F-80B4-461A-ACCE-88651A5B7E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B422F5B-687A-468D-89FC-676464395A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B422F5B-687A-468D-89FC-676464395A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B422F5B-687A-468D-89FC-676464395A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B422F5B-687A-468D-89FC-676464395A07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
